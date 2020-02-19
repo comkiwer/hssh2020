@@ -14,3 +14,7 @@
 
 - 구글 : https://www.google.com  
 - 깃허브 : https://github.com
+
+#### 노트북을 사용할 경우 아래 링크에서 여러분의 운영체제에 맞는 Python 3.x 버전을 설치해주시기 바랍니다.
+
+- 아나콘다 다운로드 : https://www.anaconda.com/distribution/#download-section
