@@ -22,3 +22,11 @@
 #### iv) 노트북을 사용할 경우 아래 링크에서 여러분의 운영체제에 맞는 Python 3.x 버전을 설치해주시기 바랍니다.
 
 - 아나콘다 다운로드 : https://www.anaconda.com/distribution/#download-section
+
+
+#### * Tip
+##### ebs 아이디로 로그인하면 다음 링크에서도 실습을 즐길 수(!) 있습니다! :)
+- https://www.ebssw.kr/txt/practice/workspace
+##### 코드를 예쁘게 공유하고 싶은 친구들을 위한 팁 2가지!]
+- https://colorscripter.com/ 요기에서 코드 링크를 공유해도 됩니다!
+- https://carbon.now.sh/ 요기에서는 이미지로 저장이 됩니다!
